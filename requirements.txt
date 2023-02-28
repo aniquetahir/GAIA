@@ -1,0 +1,12 @@
+jax
+optax
+chex
+tempeh
+aif360
+tqdm
+tensorflow
+oryx
+dm-haiku
+numpy
+pandas
+fairlearn
